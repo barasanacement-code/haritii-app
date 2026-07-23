@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "713316346939",
+    "project_id": "haritii-delivery",
+    "storage_bucket": "haritii-delivery.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713316346939:android:78f0c43320ca2337d1001e",
+        "android_client_info": {
+          "package_name": "com.example.haritii_delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA77FJps9kWSPqM-nSHKAmm8IWyoPAAg8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
